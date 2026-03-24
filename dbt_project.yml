@@ -1,5 +1,7 @@
 name: life_admin_dbt
 
+# some change
+
 profile: life_admin_dbt
 
 seed-paths: ["seeds"]
