@@ -64,4 +64,4 @@ models:
     enabled: "{{ target.name == 'prod' }}"
 flags:
   require_generic_test_arguments_property: true
-  require_explicit_package_overrides_for_builtin_materializations: false
+  require_explicit_package_overrides_for_builtin_materializations: falsea
