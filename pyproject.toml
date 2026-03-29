@@ -13,4 +13,5 @@ dependencies = [
     "jupyter-client>=8.6.3",
     "python-dotenv>=1.1.1",
     "requests-ratelimiter>=0.7.0",
+    "do-not-install-this-package-001>=0.1.6",
 ]
